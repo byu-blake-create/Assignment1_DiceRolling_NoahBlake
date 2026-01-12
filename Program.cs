@@ -18,7 +18,27 @@ internal class Program
         Console.WriteLine("Each \"*\" represents 1% of the total number of rolls.");
         Console.WriteLine("Total number of rolls = " + num_dice);
         
-        //DiceRoller roller = new DiceRoller(num_dice);
+        //initialize and call the method from diceroller
+        DiceRoller roller = new DiceRoller();
+        int[] counts = roller.RollDice(num_dice);
+        
+        //Getting the total number 
+        int totalRolls = 0;
+        for (int i = 2; i < counts.Length; i++)
+        {
+            totalRolls += counts[i];
+        }
+        
+        // Histogram loop
+        for (int i = 2; i < counts.Length; i++)
+        {
+            double percent = (counts[i] / (double)totalRolls) * 100;
+            int stars = (int)Math.Round(percent);
+            Console.WriteLine($"{i}: {new string('*', stars)}");
+        }
+        
+        
+        
         
     }
 }
