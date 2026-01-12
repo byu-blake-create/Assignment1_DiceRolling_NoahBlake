@@ -1,0 +1,15 @@
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/bin/Debug/net10.0/Assignment1_DiceRolling_NoahBlake
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/bin/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.deps.json
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/bin/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.runtimeconfig.json
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/bin/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.dll
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/bin/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.pdb
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.AssemblyInfoInputs.cache
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.AssemblyInfo.cs
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.csproj.CoreCompileInputs.cache
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.sourcelink.json
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.dll
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/refint/Assignment1_DiceRolling_NoahBlake.dll
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.pdb
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/Assignment1_DiceRolling_NoahBlake.genruntimeconfig.cache
+/Users/noahblake/RiderProjects/Assignment1_DiceRolling_NoahBlake/obj/Debug/net10.0/ref/Assignment1_DiceRolling_NoahBlake.dll
