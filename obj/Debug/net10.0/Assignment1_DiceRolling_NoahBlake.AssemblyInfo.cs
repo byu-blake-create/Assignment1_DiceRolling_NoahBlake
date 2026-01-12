@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment1_DiceRolling_NoahBlake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f961a78b50155a3231338daf8c016a890a128f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f0f4fe2bb1645e1cac2c035dbf1d060ab71df8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment1_DiceRolling_NoahBlake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment1_DiceRolling_NoahBlake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
